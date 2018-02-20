@@ -1,0 +1,26 @@
+body{
+    background:#ffffff;
+    font-family: "Arial";
+    color:#212121;
+}
+h1{
+    font-size:2.11em;
+}
+h2{
+   font-size:2em; 
+}
+h3{
+    font-size: 1.8em;
+}
+h4{
+    
+}
+h5{
+    
+}
+#header_top{
+    
+}
+#header_bottom{
+    background-color:ff44aa;
+}
